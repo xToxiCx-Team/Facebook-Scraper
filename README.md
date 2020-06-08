@@ -129,8 +129,6 @@ You can get in touch with us on our LinkedIn Profiles:
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/harismuneer)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
-
 If you liked the repo then please support it by giving it a star ⭐!
 
 ## For Future 🔮
