@@ -125,9 +125,9 @@ This tool will not works if your account was set up with 2FA. You must disable i
 
 You can get in touch with us on our Facebook Profile:
 
-#### Michael Magdy
+#### [Michael Magdy](https://www.facebook.com/xToxiCx.Team/)
 
-[Facebook](https://www.facebook.com/xToxiCx.Team/)
+[Michael Magdy](https://www.facebook.com/xToxiCx.Team/)
 
 If you liked the repo then please support it by giving it a star ⭐!
 
