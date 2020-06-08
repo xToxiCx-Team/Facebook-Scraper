@@ -88,7 +88,7 @@ Chrome driver is automatically downloaded using the chromedriver_manager package
 
 Make sure the link only contains the username or id number at the end and not any other stuff. Make sure its in the format mentioned above.
 
-Run the `ultimate-facebook-scraper` command ! 🚀
+Run the `Facebook-Scraper` command ! 🚀
 
 ```python
 python scraper/scraper.py
