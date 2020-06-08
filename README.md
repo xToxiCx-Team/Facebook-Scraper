@@ -113,16 +113,6 @@ Note that those are the default values so no need to write them down if you're j
 
 ---
 
-## Citation 📚
-
-<a href="https://zenodo.org/badge/latestdoi/145763277">
-  <img src="https://zenodo.org/badge/145763277.svg" />
-</a>
-
-If you use this tool for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this tool and diffferent citation formats like IEEE, APA etc.
-
----
-
 ## Important Message ⚠️
 
 This tool is for research purposes only. Hence, the developers of this tool won't be responsible for any misuse of data collected using this tool. Used by many researchers and open source intelligence (OSINT) analysts.
@@ -140,12 +130,6 @@ You can get in touch with us on our LinkedIn Profiles:
 [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/harismuneer)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
-
-#### Hassaan Elahi
-
-[![LinkedIn Link](https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png](https://www.linkedin.com/in/hassaan-elahi/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Hassaan--Elahi-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Hassaan-Elahi)
 
 If you liked the repo then please support it by giving it a star ⭐!
 
