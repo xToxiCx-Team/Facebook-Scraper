@@ -71,7 +71,7 @@ You will need to:
 - Have a Facebook account without 2FA enabled
 
 ```bash
-git clone https://github.com/harismuneer/Scraper-Facebook.git
+git clone https://github.com/xToxiCx-Team/Facebook-Scraper.git
 cd Scraper-Facebook
 
 # Install Python requirements
